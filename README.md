@@ -10,3 +10,4 @@ This source code contains following features
 Improvements needed
 
 1. Added caching mechanism for all customers. Caching should be provided only for frequently visiting customers
+2. Provide a different mechanism instead of in-memory authentication
