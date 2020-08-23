@@ -4,7 +4,7 @@ This source code contains following features
 
 1. Basic in-memory authentication 
 2. Crud operations with spring boot (with proper validations and proper error messages)
-3. Redis cache for getting details faster
+3. Redis cache
 4. Unit test for feature
 
 Improvements needed
